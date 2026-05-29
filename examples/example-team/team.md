@@ -2,15 +2,16 @@
 
 ## Team Name
 
-Merge Conflict Survivors
+The Shrimps
 
 ## Project Manager
 
-Jane Doe
+Andy Gonzalez
 
 ## Team Members
 
-- Jane Doe
-- John Smith
-- Alice Johnson
-- Bob Williams
+- Alvin Lai
+- Rain Christian
+- Melany Chaparro
+- James Ryan De Vera
+- Andy Gonzalez
